@@ -24,5 +24,3 @@ The system generates an **Excel file** containing processed data, which can be d
 - Reports
 - Data analysis
 
-## 📁 Project Structure (Example)
-
