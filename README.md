@@ -1,4 +1,3 @@
-# Medianna-Medical-Analytics
 # Mediana – Python Microservices Learning Platform
 
 Mediana is a Python-based microservices learning platform designed to help learners understand and implement core backend development concepts using Python.
